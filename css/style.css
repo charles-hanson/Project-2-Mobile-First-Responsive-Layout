@@ -72,6 +72,8 @@ body,
 
 .header-name {
   text-align: center;
+  padding-top: 10px;
+  margin-top: 0;
 }
 
 .profile {
@@ -101,6 +103,7 @@ body,
 .portfolio {
   text-align: center;
   padding-top: 20px;
+  padding-bottom: 20px;
   background-color: #fff;
 }
 
@@ -134,6 +137,12 @@ body,
 .contact {
   text-align: center;
   border-bottom: 1px solid lightgrey;
+}
+
+.contact-me {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .phone,
@@ -322,7 +331,7 @@ body,
  /* =============
  Clearfix
  ============= */
- 
+
  .clearfix::after {
    content: "";
    display: table;

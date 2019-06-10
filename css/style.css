@@ -273,6 +273,10 @@ body,
     padding: 0 25px;
   }
 
+  /* =============
+  Clearfix
+  ============= */
+
   .clearfix::after {
     content: "";
     display: table;

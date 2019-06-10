@@ -21,8 +21,6 @@ ul {
   margin: 0;
 }
 
-
-
 body,
 .wrapper,
 .main-header,
@@ -324,6 +322,7 @@ body,
  /* =============
  Clearfix
  ============= */
+ 
  .clearfix::after {
    content: "";
    display: table;

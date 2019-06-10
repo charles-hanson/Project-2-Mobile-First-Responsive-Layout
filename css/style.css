@@ -82,7 +82,7 @@ body,
 
 .profile {
   text-align: center;
-  margin: 0 20px;
+  padding: 0 20px;
 }
 
 .profile-image {
@@ -116,7 +116,7 @@ body,
 }
 
 .icon {
-  width: 80%;
+  width: 90%;
 }
 
 .portfolio-info {
@@ -130,7 +130,7 @@ body,
 }
 
 .info {
-  margin: 0px;
+  margin: 0 5px;
 }
 
 #contact{
@@ -140,7 +140,8 @@ body,
 
 .contact {
   text-align: center;
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
+  margin: 0 10px;
   border-bottom: 1px solid lightgrey;
 }
 

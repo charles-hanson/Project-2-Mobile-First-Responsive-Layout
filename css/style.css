@@ -133,7 +133,7 @@ body,
   margin: 0 5px;
 }
 
-#contact{
+#contact {
     padding-top: 30px;
     padding-bottom: 15px;
 }
@@ -181,9 +181,6 @@ body,
 
   .profile-image {
     width: 80%;
-  }
-
-  .main-footer {
   }
 
   .footer-name,
@@ -257,14 +254,14 @@ body,
     width: 50%;
     float: left;
     display: inline-block;
-    margin: 0px;
+    margin: 0;
   }
 
   .footer-nav {
     width: 50%;
     float: right;
     display: inline-block;
-    margin: 0px;
+    margin: 0;
   }
 
   .footer-nav li {
@@ -311,7 +308,7 @@ body,
     width: 50%;
     float: left;
     display: inline;
-    margin: 0px;
+    margin: 0;
   }
 
   .header-name {
@@ -350,3 +347,4 @@ body,
    display: table;
    clear: both;
  }
+}
